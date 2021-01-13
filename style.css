@@ -407,6 +407,7 @@ li.landing__text:before {
    border: none;
    border-radius: 3px;
    color: white;
+   cursor: pointer;
    display: block;
    font-family: "Roboto", "Arial", sans-serif;
    font-size: 16px;
